@@ -2,4 +2,6 @@
 
 Figma Prototype for Covid-19 Application that provides relevant Covid-19 information as well as assistance resources.
 
-![picture](img/abc.png)
+
+
+![alt text](https://github.com/bradjones8/HCIAssignment2/blob/master/CreateAccountFeat.jpg?raw=true)
